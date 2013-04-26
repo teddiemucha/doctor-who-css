@@ -2,6 +2,18 @@ body {
 	background-image: url(images/star-background.jpg);
 	margin: 0px;
 	padding: 0px;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 16px;
+}
+.doctor p {
+	margin-left: 50px;
+}
+p {
+	line-height: 2.5em;
+	margin-bottom: 3em;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
 }
 .wrapper {
 	background-color: #A69F8A;
@@ -49,4 +61,27 @@ body {
 	margin-bottom: 10px;
 	color: #222940;
 	text-decoration: none;
+}
+.content {
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.main {
+	background-color: #F2F2F2;
+	border-radius: 15px;
+	padding: 20px;
+}
+.home-img img {
+	border: 1px solid #000;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+.doctor img {
+	border: 1px solid #000;
+}
+.doctor td {
+	text-align: left;
+	vertical-align: top;
 }
